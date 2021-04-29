@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 <h3 align="center">Studying Computer Science at the Federal University of Uberlandia, Brazil.</h3>
 <h4 align="center">Estudo Ciência da Computação na Universidade Federal de Uberlândia (UFU), Brasil.</h4>
-
+<hr>
 
 - 📚 Studying **C#, JavaScript, HTML, CSS**
 - 📫 Contact: **leite_guilherme@outlook.com**
