@@ -1,5 +1,4 @@
 <h1 align="center">Hi there! 👋</h1>
-<hr>
 <h3 align="center">Studying Computer Science at the Federal University of Uberlandia, Brazil.</h3>
 <h4 align="center">Estudo Ciência da Computação na Universidade Federal de Uberlândia (UFU), Brasil.</h4>
 <hr>
