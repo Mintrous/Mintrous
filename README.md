@@ -1,6 +1,6 @@
-<h1 align="center"><b>Hi there </b> 𝘩𝘰𝘸'𝘴 𝘪𝘵 𝘨𝘰𝘪𝘯𝘨 👋</h1>
-<h3 align="center">Studying Computer Science at the Federal University of Uberlândia, Brazil.
-Estudo Ciência da Computação na Universidade Federal de Uberlândia (UFU)</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">Studying Computer Science at the Federal University of Uberlândia, Brazil.</h3>
+<h4 align="center">Estudo Ciência da Computação na Universidade Federal de Uberlândia (UFU), Brasil.</h4>
 
 - 📚 Studying **C#, JavaScript, HTML, CSS**
 
