@@ -3,8 +3,8 @@
 <h4 align="center">Estudo Ciência da Computação na Universidade Federal de Uberlândia, Brasil.</h4>
 <hr>
 
-📚 Studying **C#, JavaScript, HTML, CSS**
-📧 Contact: **leite_guilherme@outlook.com**
+- 📚 Studying **C#, JavaScript, HTML, CSS**
+- 📧 Contact: **leite_guilherme@outlook.com**
 
 <!--
 **Mintrous/Mintrous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
