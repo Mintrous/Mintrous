@@ -1,6 +1,8 @@
-### Hi there, I'm Guilherme Leite 👋 
-***I'm currently studying computer science at Federal University of Uberlândia
-Estudo Ciência da Computação na Universidade Federal de Uberlândia (UFU)***
+<h1 align="center"><b>Hi there </b> 𝘩𝘰𝘸'𝘴 𝘪𝘵 𝘨𝘰𝘪𝘯𝘨 👋</h1>
+<h3 align="center">Studying Computer Science at the Federal University of Uberlândia, Brazil.
+Estudo Ciência da Computação na Universidade Federal de Uberlândia (UFU)</h3>
+
+- 📚 Studying **C#, JavaScript, HTML, CSS**
 
 <!--
 **Mintrous/Mintrous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
