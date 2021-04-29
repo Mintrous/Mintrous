@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there! 👋</h1>
 <h3 align="center">Studying Computer Science at the Federal University of Uberlandia, Brazil.</h3>
-<h3 align="center">Estudo Ciência da Computação na Universidade Federal de Uberlândia (UFU), Brasil.</h3>
+<h4 align="center">Estudo Ciência da Computação na Universidade Federal de Uberlândia (UFU), Brasil.</h4>
 
 - 📚 Studying **C#, JavaScript, HTML, CSS**
-- 📫 How to reach me: **leite_guilherme@outlook.com**
+- 📫 Contact: **leite_guilherme@outlook.com**
 
 <!--
 **Mintrous/Mintrous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
