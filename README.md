@@ -4,7 +4,7 @@
 <hr>
 
 - 📚 Studying **C#, JavaScript, HTML, CSS**
-- 📫 Contact: **leite_guilherme@outlook.com**
+- 📧 Contact: **leite_guilherme@outlook.com**
 
 <!--
 **Mintrous/Mintrous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
