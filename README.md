@@ -3,7 +3,7 @@
 <h4 align="center">Estudo Ciência da Computação na Universidade Federal de Uberlândia, Brasil.</h4>
 <hr>
 
-- 📚 Studying **C#, JavaScript, HTML, CSS**
+- 📚 Studying **C#, JavaScript, HTML, CSS, Node.js**
 - 📧 Contact: **leite_guilherme@outlook.com**
 
 <!--
