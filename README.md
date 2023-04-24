@@ -4,7 +4,7 @@
 <hr>
 
 - 📚 Studying **C#, JavaScript, HTML, CSS, Node.js**
-- 📧 Contact: **leite_guilherme@outlook.com**
+- 📧 Contact: **leite_guilherme@outlook.com / leiteguilherme2626@gmail.com**
 
  <div>
   <a href="https://github.com/Mintrous">
