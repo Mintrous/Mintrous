@@ -3,8 +3,8 @@
 <h4 align="center">Estudo Ciência da Computação na Universidade Federal de Uberlândia, Brasil.</h4>
 <hr>
 
-- 📚 Studying **C#, JavaScript, HTML, CSS, Node.js**
-- 📧 Contact: **leite_guilherme@outlook.com / leiteguilherme2626@gmail.com**
+- 📚 Studying **C#, Rust, Node.js, React, Python**
+- 📧 Contact: **leiteguilherme2626@gmail.com**
 
  <div>
   <a href="https://github.com/Mintrous">
