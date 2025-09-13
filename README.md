@@ -3,7 +3,7 @@
 <h4 align="center">Estudo Ciência da Computação na Universidade Federal de Uberlândia, Brasil.</h4>
 <hr>
 
-- 📚 Studying **C#, Rust, Node.js, React, Python**
+- 📚 Studying **C#, Rust, Node.js, React, Python, Computer Vision**
 - 📧 Contact: **leiteguilherme2626@gmail.com**
 
  <div>
