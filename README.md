@@ -6,11 +6,6 @@
 - 📚 Studying **C#, Rust, Node.js, React, Python, Computer Vision**
 - 📧 Contact: **leiteguilherme2626@gmail.com**
 
- <div>
-  <a href="https://github.com/Mintrous">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mintrous&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <!--
 **Mintrous/Mintrous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
