@@ -29,5 +29,5 @@
 
 ---
 
-📫 [Email](mailto:leiteguilherme2626@gmail.com) ·
-💼 [LinkedIn](https://www.linkedin.com/in/guilhermeleite0)
+📫 [Email](mailto:leiteguilherme2626@gmail.com) · leiteguilherme2626@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/guilhermeleite0) · https://www.linkedin.com/in/guilhermeleite0/
